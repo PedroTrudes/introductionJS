@@ -1,0 +1,7 @@
+const notas = [10, 6.5, 8, 7.5];
+let somasNotas
+
+for(let i = 0; i < notas.length; i++){
+    let mediaCalc = notas[i]/notas.length
+    console.log(mediaCalc)
+}
