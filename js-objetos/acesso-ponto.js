@@ -7,4 +7,4 @@ const cliente = {
 
 console.log(`O nome do cliente é: ${cliente.nome}, a idade dele é ${cliente.idade}`)
 
-console.log(`os três primeiro digitos do CPF é ${cliente.cpf.substring(0, 3)}`)
+console.log(`os três primeiro digitos do CPF é ${cliente.cpf.substring(0, 3)}`)//pegando apenas 3 valores 
